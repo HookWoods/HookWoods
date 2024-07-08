@@ -2,6 +2,14 @@
 
 My name is Hugo. I'm currently working in the Minecraft community as software architect and most of the time in back-end.
 
+Here some POC I've done that I may opensource oneday:
+### Horizontally scale network video game
+The goal of this POC was to make it possible to scale a video game (Minecraft) server on multiple pod on Kubernetes
+It use golang application as backend to synchronize every multiplayer server by forwarding useful network packet using a blazing fast packet decoder and encoder
+and use [Agones](https://agones.dev/site/) to dynamically scale backend server based on player count and hardware available ressources.
+- [The video showing two user on two different region and server](https://www.youtube.com/watch?v=6_SDThXPreQ)
+- [The video showing how fast the world loads using only network call](https://www.youtube.com/watch?v=VRwxNJo11Ec)
+
 ## Languages 📫
 
 Here are the languages that I can work with all day:
