@@ -1,52 +1,96 @@
-### Me 👋
+<div align="center">
 
-My name is Hugo. I'm currently working in the Minecraft community as software architect and most of the time in back-end.
+# Hi, I'm Hugo 👋
 
-Here some POC I've done that I may opensource oneday:
-### Horizontally scale network video game
-The goal of this POC was to make it possible to scale a video game (Minecraft) server on multiple pod on Kubernetes
-It use golang application as backend to synchronize every multiplayer server by forwarding useful network packet using a blazing fast packet decoder and encoder
-and use [Agones](https://agones.dev/site/) to dynamically scale backend server based on player count and hardware available ressources.
-- [The video showing two user on two different region and server](https://www.youtube.com/watch?v=6_SDThXPreQ)
-- [The video showing how fast the world loads using only network call](https://www.youtube.com/watch?v=VRwxNJo11Ec)
+**Software & Solution Architect · Backend · Distributed Systems**
 
-## Languages 📫
+I design reliable, scalable systems where performance, networking, and operability matter.
 
-Here are the languages that I can work with all day:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo_Planque-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-planque-812888171/)
+[![GitHub](https://img.shields.io/badge/GitHub-HookWoods-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HookWoods)
 
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-- ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+</div>
 
-Here are the languages that I know without being a pro:
+## About me
 
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- I work mainly on **backend architecture**, **distributed systems**, and **event-driven platforms**.
+- I enjoy solving problems involving **concurrency**, **network protocols**, **performance**, and **scalability**.
+- **Java** is my primary ecosystem; I use **Rust** for low-level and performance-sensitive systems.
+- I build and operate workloads with **Kubernetes**, containers, messaging systems, and cloud infrastructure.
+- I use **AI-assisted engineering** to explore solutions, accelerate prototypes, review code, improve tests, and document systems—while keeping architecture, validation, and technical decisions human-owned.
 
-## Frameworks ⚡
+## Core stack
 
-I've already worked with:
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-- ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-- ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+### Languages
 
-## Technology 🔭
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
-- ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-- ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-- ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+### Backend & architecture
 
-And more that we don't care...
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Netty](https://img.shields.io/badge/Netty-0B5FFF?style=for-the-badge&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-5A45FF?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-243B53?style=for-the-badge)
+
+### Infrastructure & systems
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![eBPF](https://img.shields.io/badge/eBPF-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+
+### Data & messaging
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## How I use AI
+
+I use AI to move faster without giving up ownership of the engineering work.
+
+- Explore architecture options and challenge design assumptions.
+- Prototype bounded ideas and automate repetitive implementation work.
+- Review code, generate test scenarios, and surface edge cases.
+- Improve technical documentation and knowledge sharing.
+- Validate every result through tests, benchmarks, and human review.
+
+## Selected work
+
+### Horizontally scalable multiplayer game servers
+
+A proof of concept for scaling a Minecraft network across multiple Kubernetes pods and regions.
+
+A Go backend synchronizes multiplayer servers by forwarding selected network packets through a fast decoder and encoder. [Agones](https://agones.dev/site/) scales game servers according to player count and available resources.
+
+- [Two players connected through different regions and servers](https://www.youtube.com/watch?v=6_SDThXPreQ)
+- [World loading using network calls](https://www.youtube.com/watch?v=VRwxNJo11Ec)
+
+### [Carapace](https://github.com/HookWoods/Carapace)
+
+An experimental DDoS protection system built with **Rust** and **eBPF**, focused on real-time traffic analysis, adaptive rate limiting, and anomaly detection.
+
+### [MultiThreading](https://github.com/HookWoods/MultiThreading)
+
+A lightweight Java utility around `ExecutorService` for asynchronous, delayed, and repeating tasks.
+
+### [MavenResolver](https://github.com/HookWoods/MavenResolver)
+
+A Java library for resolving Maven dependencies at runtime instead of bundling them into an application JAR.
+
+## Current interests
+
+- High-performance Java and systems programming with Rust.
+- Event-driven architecture, distributed systems, and fault tolerance.
+- Network programming, eBPF, and infrastructure security.
+- AI-assisted software delivery, developer tooling, and AI agents.
+- Kubernetes-native platforms and production observability.
+
+<div align="center">
+
+_Build fast systems. Keep production boring._
+
+</div>
